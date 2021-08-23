@@ -27,7 +27,7 @@ HyperText Markup Language
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-"Can't Stop Styling" Cascading Style Sheets
+Cascading Style Sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -50,7 +50,7 @@ Selector, Property, and Value
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-Body?
+Body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
@@ -68,5 +68,5 @@ The ul, ol, and li tags
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-Width and hieght, padding and border
+Width and height, padding and border
 ```
