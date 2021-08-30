@@ -9,3 +9,5 @@ The Elements tab allows you to see the breakdown of your HTML/CSS. This tab is v
 ## Outside of writing everything to the console, what is a better way to debug your code?
 
 Using the debugger command in your own code is a great way to debug your code step-by-step.
+
+https://jeremy-fowler.github.io/rockpaperscissors/

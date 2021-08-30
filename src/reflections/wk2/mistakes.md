@@ -9,3 +9,5 @@ Asking for help is the best option for when I am stuck, or taking a break, or do
 ## From the entire article what are your biggest takeaways?
 
 I find myself Picking The First solution quite a bit, which in turn bleeds into Making Existing Code Worse. I have a lot that I need to work on, but it is comforting to know that other people struggle with the same things.
+
+https://jeremy-fowler.github.io/SlapGame/

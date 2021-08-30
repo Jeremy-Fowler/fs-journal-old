@@ -15,3 +15,5 @@ var should be used when we want to use it within the entire code, and we want to
 let is used the most frequently, and we would want to use it within functions where it can be redefined
 
 const cannot be reassigned.
+
+https://jeremy-fowler.github.io/js-intro/

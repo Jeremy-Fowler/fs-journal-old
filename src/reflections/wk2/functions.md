@@ -20,3 +20,5 @@ Parameters are used when defining a function, arguments are used while invoking 
 
 A higher order function either accepts another function as a perameter, or returns a function.
 Array.prototype.map is a higher order function that I have used before.
+
+https://jeremy-fowler.github.io/js-intro-loops-arrays/
