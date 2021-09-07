@@ -10,3 +10,5 @@ A large number of people ignore the underscore prefix, or do not understand it
 
 ## How do we create private variables in a ES6 Class? Why would you do this?
 
+
+https://jeremy-fowler.github.io/vendr/
