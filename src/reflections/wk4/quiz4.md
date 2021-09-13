@@ -55,5 +55,6 @@ Protecting your private parts
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
+Internal server error
 https://http.cat/500 
 ```
