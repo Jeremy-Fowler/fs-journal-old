@@ -21,3 +21,5 @@ Single Domain: Protects only one domain.
 ## What are some benefits of using SSL certificates?
 
 SSL certs will keep user data safer, and helps rank your domain higher on certain search algorithms.
+
+https://github.com/hannahmilam/PressPlay
