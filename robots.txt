@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://Jeremy-Fowler.github.io/fs-journal/fs-journal/sitemap.xml
