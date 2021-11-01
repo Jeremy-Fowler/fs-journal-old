@@ -37,3 +37,5 @@ CREATE TABLE doctor_patients (
 SELECT * FROM doctor_patients dp
 JOIN doctors d ON d.id = dp.doctorId
 JOIN patients p ON p.id = dp.patientId
+
+https://github.com/Jeremy-Fowler/Contractr

@@ -11,3 +11,5 @@ User input, cookies, modified Http headers are all examples of SQL injection met
 ## How can we detect and sanitize SQL injection attacks?
 
 IDSes can be used to detect attacks, as well as firewalls. Never trust the client, and whitelist any input validation.
+
+https://github.com/Jeremy-Fowler/VacationBaby
